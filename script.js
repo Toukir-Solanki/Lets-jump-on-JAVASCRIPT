@@ -45,3 +45,15 @@ function calcAge1(bithyear){
 }
 
 console.log(calcAge1(1999));
+
+
+const frined1 = 'tik'
+const frined2 = 'tikbig'
+const frined3 = 'tiksmall'
+
+
+const friends = ['tik', 'steven', 'peter']
+
+console.log(friends);
+
+
