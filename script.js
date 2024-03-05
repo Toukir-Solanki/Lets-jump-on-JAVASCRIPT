@@ -57,3 +57,8 @@ const friends = ['tik', 'steven', 'peter']
 console.log(friends);
 
 
+
+
+for (let rep = 1; rep <=10; rep++ ){
+    console.log(`lifiing weights reptioon ${rep}`);
+}
